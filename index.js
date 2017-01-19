@@ -1,3 +1,3 @@
-import MyComponent from 'src/MyComponent';
+import MyComponent from 'lib/MyComponent';
 
 export default MyComponent;
