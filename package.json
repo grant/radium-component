@@ -5,8 +5,8 @@
   },
   "name": "radium-component",
   "description": "A sample Radium component",
-  "version": "0.3.0",
-  "main": "index.js",
+  "version": "0.4.0",
+  "main": "lib/MyComponent.js",
   "devDependencies": {
     "babel-cli": "^6.4.5",
     "babel-preset-flow": "^1.0.0",
